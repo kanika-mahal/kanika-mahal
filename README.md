@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanika Mahal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [E commerce Website](https://github.com/kanika-mahal/miniproj)
+- 🔭 I’m currently working on [Rajya Sabha Website](https://github.com/kanika-mahal/Rajya_Sabha)
 
 - 📫 How to reach me **kanikamahal123@gmail.com**
 
