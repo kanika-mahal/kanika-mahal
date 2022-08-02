@@ -2,6 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Rajya Sabha Website](https://github.com/kanika-mahal/Rajya_Sabha)
+<br>
+    😄  Having thorough understanding of data structures and algorithms.
+    <br>
 
 - 📫 How to reach me **kanikamahal123@gmail.com** **https://www.linkedin.com/in/kanika-mahal-7515b71a3/**
 
