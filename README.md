@@ -9,7 +9,7 @@
     <br>
     <br>
     🎓  Having proficient understanding of code versioning (using Git).
-   
+   <br>
     <br>
      🌱  Active participant on programming platforms.
    <br>
