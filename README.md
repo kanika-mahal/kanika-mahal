@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Rajya Sabha Website](https://github.com/kanika-mahal/Rajya_Sabha)
 <br>
-Having keen interest in problem solving and backend development.
+😄Having keen interest in problem solving and backend development.
 <br>
     😄  Having thorough understanding of data structures and algorithms.
     <br>
     <br>
     🎓  Having proficient understanding of code versioning (using Git).
-    <br> 
+   
     <br>
      🌱  Active participant on programming platforms.
    <br>
