@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanika Mahal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Rajya Sabha Website](https://github.com/kanika-mahal/Rajya_Sabha)
+- 🔭 I’m currently working on [project](https://github.com/kanika-mahal/Rajya_Sabha) under National Informatics Centre- Parliament of India
 <br>
 😄Having keen interest in problem solving and backend development.
 <br>
